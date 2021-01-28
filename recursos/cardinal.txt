@@ -1,0 +1,29 @@
+graph G {
+node [shape=circle,label=""] a b c d e
+node [shape=square,height="0.3",label=""] 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+node [shape=circle,height="0.5",label=""] f
+node [shape=circle,height="0.5",label=""] g
+node [shape=square,height="0.3",label=""] 15
+ 
+a -- b
+a -- c
+a -- d
+b -- e
+b -- 4
+b -- f
+c -- 8
+c -- 9
+c -- 10
+d -- 11
+d -- g
+d -- 15
+e -- 1
+e -- 2
+e -- 3
+f -- 5
+f -- 6
+f -- 7
+g -- 12
+g -- 13
+g -- 14
+}

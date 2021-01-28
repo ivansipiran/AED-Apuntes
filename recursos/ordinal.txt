@@ -1,0 +1,12 @@
+graph G {
+node [shape=circle] a b c d e f g h i j
+a -- b
+a -- c
+a -- d
+c -- e
+d -- j
+e -- f
+e -- g
+e -- h
+e -- i
+}

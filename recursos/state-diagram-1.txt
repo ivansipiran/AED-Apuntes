@@ -1,0 +1,9 @@
+digraph flowchart1{
+  rankdir=LR;
+  node[shape=circle]; I;
+ node[shape=doublecircle]; F;
+ node[shape=point];
+ "" -> I [label="B"];
+ I -> I [label="if C:&#92;n&#92; &#92; &#92; &#92; A"];
+ I -> F [label="if not C:"];
+}

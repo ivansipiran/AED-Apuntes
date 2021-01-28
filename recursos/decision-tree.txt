@@ -1,0 +1,19 @@
+digraph G {
+ranksep="0.3";
+
+  node [shape=diamond] a[label="x&le;b?"] b[label="x=a?"] c[label="x=c?"];
+  node [shape=rectangle] 1[label="x=a"] 4[label="x=c"];
+  node [shape=diamond] d[label="x=b?"] e[label="x=d?"];
+  node [shape=rectangle] 2[label="x=b"] 3[label="No est&aacute;"]
+    5[label="x=d"] 6[label="No est&aacute;"];
+  a:w -> b:n [label="S&iacute;"];
+  a:e -> c:n [label="No"];
+  b:w -> 1:n [label="S&iacute;"];
+  b:e -> d:n [label="No"];
+  d:w -> 2:n [label="S&iacute;"];
+  d:e -> 3:n [label="No"];
+  c:w -> 4:n [label="S&iacute;"];
+  c:e -> e:n [label="No"];
+  e:w -> 5:n [label="S&iacute;"];
+  e:e -> 6:n [label="No"]; 
+}

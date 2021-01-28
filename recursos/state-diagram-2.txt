@@ -1,0 +1,13 @@
+digraph statediagram2 {
+	rankdir=LR;
+	node [shape = doublecircle]; FIN;
+	node [shape = circle];  FUERA DENTRO;
+        node [shape=point];
+        "" -> FUERA [label="np=0"];
+        FUERA -> DENTRO [label="if s[k]!=' ':&#92;n&#92; &#92; &#92; &#92; np+=1"];
+        DENTRO -> FUERA [label="if s[k]==' ':"];
+        FUERA -> FUERA [label="if s[k]==' ':"];
+        DENTRO -> DENTRO [label="if s[k]!=' ':"];
+        FUERA -> FIN [label="if k==len(s):"];
+        DENTRO -> FIN [label="if k==len(s):"];	
+}

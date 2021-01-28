@@ -1,0 +1,12 @@
+graph G {
+ node [shape=square] e[label="a"] f[label="1"] g[label="2"] h[label="1"] i[label="b"]
+ node [shape=circle] a[label="+"] b[label="*"] c[label="−"] d[label="/"]
+ b -- a
+ b -- c
+ a -- e
+ a --  f
+ c -- g
+ c -- d
+ d -- h
+ d -- i
+}

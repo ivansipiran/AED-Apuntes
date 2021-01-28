@@ -1,0 +1,352 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\usepackage{tikz}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tikzpicture}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (0,0) circle [radius=0.5]; 
+\backslash
+node at (0,0) {22}; 
+\backslash
+node[below] at (0,-0.5) {
+\backslash
+it 7};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (1,1.5) circle [radius=0.5]; 
+\backslash
+node at (1,1.5) {38}; 
+\backslash
+node[below] at (1,1) {
+\backslash
+it 3};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (2,0) circle [radius=0.5]; 
+\backslash
+node at (2,0) {10}; 
+\backslash
+node[below] at (2,-0.5) {
+\backslash
+it 8};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (3,3) circle [radius=0.5]; 
+\backslash
+node at (3,3) {73}; 
+\backslash
+node[below] at (3,2.5) {
+\backslash
+it 1};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (4,0) circle [radius=0.5]; 
+\backslash
+node at (4,0) {52}; 
+\backslash
+node[below] at (4,-0.5) {
+\backslash
+it 9};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (5,1.5) circle [radius=0.5]; 
+\backslash
+node at (5,1.5) {60}; 
+\backslash
+node[below] at (5,1) {
+\backslash
+it 4};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (6,0) circle [radius=0.5]; 
+\backslash
+node at (6,0) {15}; 
+\backslash
+node[below] at (6,-0.5) {
+\backslash
+it 10};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (7,4.5) circle [radius=0.5]; 
+\backslash
+node at (7,4.5) {95}; 
+\backslash
+node[below] at (7,4) {
+\backslash
+it 0};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (8,0) circle [radius=0.5]; 
+\backslash
+node at (8,0) {20}; 
+\backslash
+node[below] at (8,-0.5) {
+\backslash
+it 11};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (9,1.5) circle [radius=0.5]; 
+\backslash
+node at (9,1.5) {33}; 
+\backslash
+node[below] at (9,1) {
+\backslash
+it 5};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (11,3) circle [radius=0.5]; 
+\backslash
+node at (11,3) {45}; 
+\backslash
+node[below] at (11,2.5) {
+\backslash
+it 2};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw (13,1.5) circle [radius=0.5]; 
+\backslash
+node at (13,1.5) {40}; 
+\backslash
+node[below] at (13,1) {
+\backslash
+it 6};
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (0.28,0.42) -- (0.72,1.08);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (1.28,1.08) -- (1.72,0.42);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (1.40,1.80) -- (2.60,2.70);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (3.40,2.70) -- (4.60,1.80);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (4.28,0.42) -- (4.72,1.08);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (5.28,1.08) -- (5.72,0.42);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (3.47,3.18) -- (6.53,4.32);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (7.47,4.32) -- (10.53,3.18);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (8.28,0.42) -- (8.72,1.08);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (9.40,1.80) -- (10.60,2.70);
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+draw[thick] (11.40,2.70) -- (12.60,1.80);
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
