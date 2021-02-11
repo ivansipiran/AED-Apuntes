@@ -1,6 +1,6 @@
-# CC3001 - Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos
 
-Este es el repositorio oficial del curso CC3001 del [Departamento de Ciencias de la Computación](http://www.dcc.uchile.cl) de la [Universidad de Chile](http://www.uchile.cl).
+Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del [Departamento de Ciencias de la Computación](http://www.dcc.uchile.cl) de la [Universidad de Chile](http://www.uchile.cl).
 
 ## Temario del Curso
   - Introducción [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC3001-Apuntes/blob/main/01_Introduccion.ipynb)
