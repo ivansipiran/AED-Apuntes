@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del [Departamento de Ciencias de la Computación](http://www.dcc.uchile.cl) de la [Universidad de Chile](http://www.uchile.cl).  El apunte está en lenguaje Python en formato Jupyter Notebook y está basado en los antiguos apuntes en Java de Patricio Poblete y Benjamín Bustos.
+Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del [Departamento de Ciencias de la Computación](http://www.dcc.uchile.cl) de la [Universidad de Chile](http://www.uchile.cl).  El apunte está en lenguaje Python en formato Jupyter Notebook y está basado en los antiguos apuntes en Java de Patricio Poblete y Benjamín Bustos. Actualizaciones de Ivan Sipiran.
 
 ## Temario del Curso
   - Introducción [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/01_Introduccion.ipynb)
