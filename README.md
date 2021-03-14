@@ -4,9 +4,13 @@ Este es el repositorio oficial del curso "Algoritmos y Estructuras de Datos" del
 
 ## Temario del Curso
   - Introducción [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/01_Introduccion.ipynb)
+    - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/01_Ejercicios.ipynb)
   - Métodos matemáticos para el análisis de algoritmos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/02_Metodos_Matematicos_para_el_Analisis_de_Algoritmos.ipynb)
+    - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/02_Ejercicios.ipynb)
   - Diseño de algoritmos eficientes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/03_Disen%CC%83o_de_Algoritmos_Eficientes.ipynb)
+    - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/03_Ejercicios.ipynb)
   - Estructuras de datos elementales [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/04_Estructuras_de_Datos_Elementales.ipynb)
+    - Ejercicios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/Ejercicios/04_Ejercicios.ipynb)
   - Pilas, colas y colas de prioridad [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/05_Pilas_Colas_y_Colas_de_Prioridad.ipynb)
   - Diccionarios [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/06_Diccionarios.ipynb)
   - Ordenación [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/AED-Apuntes/blob/main/07_Ordenacion.ipynb)
